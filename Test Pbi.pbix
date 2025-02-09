@@ -1,0 +1,3 @@
+git "C:\Users\USUARIO\OneDrive\Documentos\PowerMBA\Modelado de Datos\Test Pbi.pbix"
+commit -m "test Pbi.pbix"
+git push origin main
